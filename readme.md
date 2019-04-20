@@ -1,2 +1,1 @@
-Please read me before you start
-Learning how to on GIT
+The MyRepo is created for learning GIT
